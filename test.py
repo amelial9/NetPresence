@@ -16,4 +16,5 @@ RPC.update(
 
 print("Presence set! Check your Discord profile.")
 
-time.sleep(300)
+time.sleep(5)
+RPC.clear()
